@@ -1,2 +1,3 @@
 # MediBudyNew
-Medical Buddy Updated
+A medical Assistant Chatbot with web searching abilities
+
